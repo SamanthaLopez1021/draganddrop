@@ -45,8 +45,8 @@ body{
 }
 .hexagono img {
     position: absolute;
-    top: 50%; /* Alinea el centro del elemento con el 50% del contenedor principal */
-    left: 50%; /* Alinea el centro del elemento con el 50% del contenedor principal */
+    top: 50%; 
+    left: 50%; 
     transform: translate(-50%, -50%);
     z-index: 1;
     width: 118px;
@@ -250,7 +250,7 @@ border-radius: 5%;
     justify-content: center;
 }
 .services{
-    background-image: url(/img/imagenFormularioHoneycomb.png);
+    background-image: url(img/imagenFormularioHoneycomb.png);
     background-size: cover;
     border-radius: 42px;
     width: 496px;
